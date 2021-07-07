@@ -50,7 +50,7 @@ void cabecalho(){//Função para facilitar a exibição do cabeçalho.
 
 	printf("=============================================================\n");
 	printf("\n         BEM VINDO AO GERENCIADOR DE PROJETOS ATHENA\n");
-	printf("\n            by Rafael R. Ribeiro \n");
+	printf("\n            by Rafael R. Ribeiro\n");
 	printf("\n=============================================================");}
 void CadastrarProjeto(){//Função para cadastrar projetos
 	system("cls");
