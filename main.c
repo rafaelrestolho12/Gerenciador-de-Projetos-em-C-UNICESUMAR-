@@ -40,7 +40,7 @@ int main(){
     str_proj[0] = (struct Projeto){0,2020,1,"RAFAEL","Casa","Construir uma casa",50000.00,"Cimento, areia, tijolo",2021,true};
     str_proj[1] = (struct Projeto){1,2017,2,"REINALDO","Apartamento","Construir um Apartamento",80000.00,"Cimento, areia, tijolo",2019,true};
     str_proj[2] = (struct Projeto){2,2018,3,"JOAO","Campo de Futebol","Campo de Futebol",100000.00,"Mão de obra comunitária",2020,true};
-    str_proj[3] = (struct Projeto){3,2019,3,"JULIA","Mesa","Construir uma mesa",500.00,"Madeira, prego",2019,true};
+    str_proj[3] = (struct Projeto){3,2019,3,"MARIA","Mesa","Construir uma mesa",500.00,"Madeira, prego",2019,true};
 
     //Caso queira cadastrar manualmente peço que comente esse bloco de codigo
 	MenuPrincipal();
